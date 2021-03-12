@@ -7,7 +7,7 @@ const SocialMedia = ({ Component }) => {
   return (
     <>
       <Head>
-        <meta chartSet='utf-8' />
+        <meta chartset='utf-8' />
         <title>Hyoje Social Media</title>
       </Head>
       <Component />
